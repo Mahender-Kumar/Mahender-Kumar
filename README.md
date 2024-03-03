@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Mahender-Kumar/count.svg?"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahender-kumar" alt="mahender-kumar" /></a> </p>
+
 
 - 🔭 I’m currently working on **Darya**
 
