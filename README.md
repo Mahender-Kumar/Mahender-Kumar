@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahender-kumar&show_icons=true&locale=en" alt="mahender-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahender-kumar&" alt="mahender-kumar" /></p>
+
+<img src="https://raw.githubusercontent.com/Mahender-Kumar/Mahender-Kumar/output/snake.svg" alt="Snake animation" />
