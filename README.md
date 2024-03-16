@@ -39,5 +39,8 @@
   
   <br/><br/><br/>
 </div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mahender-Kumar/Mahender-Kumar/output/snake.svg" alt="Snake animation" />
 
 ###
