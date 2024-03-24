@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahender Kumar</h1>
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+👋;+I+am+Mahender;" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
+<!-- <br>  -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mahender-Kumar/count.svg?"  />
 </div>
