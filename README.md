@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **Darya**
 
-- 🌱 I’m currently learning **Node**
-
 - 📫 How to reach me **mksb1947@gmail.com**
 
 <h3 align="left">Coding Platforms:</h3>
